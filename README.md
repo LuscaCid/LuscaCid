@@ -1,6 +1,5 @@
-## Olá!👋 Me chamo Lucas Cid e sou um desenvolvedor fullstack 
-
-Sou um rapaz apaixonado por desenvolvedor sistemas completos. Atualmente tenho desenvolvido freelances que tem engrandecido bastante a minha sagacidade com relação a resolução de problemas e é justamente aí que eu me encaixo e continuo a estudar, isso me motiva mais e mais... 
+## Olá!👋 Me chamo Lucas Cid e sou um desenvolvedor fullstack
+dedicado e entusiasta, apaixonado por criar sistemas completos. Minha experiência em projetos freelance tem fortalecido minha sagacidade na resolução de problemas complexos, impulsionando meu compromisso com a excelência. Sempre em busca de aprendizado, mantenho-me atualizado nas últimas tecnologias para enfrentar desafios crescentes no desenvolvimento full stack. Estou pronto para contribuir com meu conhecimento abrangente e paixão pela inovação para o sucesso de projetos desafiadores.
 
 ## 🔗 Redes sociais
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
