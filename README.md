@@ -9,9 +9,6 @@ dedicado e entusiasta, apaixonado por criar sistemas completos. Minha experiênc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscacid&layout=compact&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luscacid)](https://github.com/luscacid/github-readme-stats)
-
-
 [![Github](https://img.shields.io/github/followers/luscacid?label=Follow&style=social)](https://github.com/luscacid)
 
 ### Minhas Stacks
