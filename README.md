@@ -39,3 +39,12 @@ export default {
   plugins: [],
 };
 ````
+## my postcss config below too
+````js
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
+````
