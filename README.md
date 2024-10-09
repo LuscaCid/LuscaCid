@@ -39,8 +39,6 @@ export default {
   plugins: [],
 };
 ````
-
-Felipe esteve aqui hahaha
 ## my postcss config below too
 ````js
 export default {
@@ -50,4 +48,3 @@ export default {
   },
 };
 ````
-Felipe esteve aqui
