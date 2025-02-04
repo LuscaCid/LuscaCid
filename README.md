@@ -48,3 +48,8 @@ export default {
   },
 };
 ````
+Esse cara esteve aqui
+
+<picture>
+  <img src="lipe/lipe.png" alt="Minha Imagem">
+</picture>
