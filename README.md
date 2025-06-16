@@ -1,12 +1,11 @@
 # Olá!👋 Me chamo Lucas Cid e sou desenvolvedor fullstack.
 dedicado e entusiasta, apaixonado por criar sistemas completos. Minha experiência em projetos freelance tem fortalecido minha sagacidade na resolução de problemas complexos, impulsionando meu compromisso com a excelência. Sempre em busca de aprendizado, mantenho-me atualizado nas últimas tecnologias para enfrentar desafios crescentes no desenvolvimento full stack. Estou pronto para contribuir com meu conhecimento abrangente e paixão pela inovação para o sucesso de projetos desafiadores.
 
-## 🔗 Redes sociais
-### My Oldest Portfolio
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luscacid.netlify.app/)
-### And my current portfolio
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lucascid.netlify.app/)
 
+### My Portfolio
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luscacid.netlify.app/)
+
+## 🔗 Social Media
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cid-1ba940269/)
 
 [![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=luscacid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -21,32 +20,3 @@ dedicado e entusiasta, apaixonado por criar sistemas completos. Minha experiênc
 
 ![Next](https://img.shields.io/badge/Next-%23404d59.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB)
 
-
-## My Tailwind default config:
-````js
-/** @type {import('tailwindcss').Config} */
-export default {
-  darkMode : 'class',
-  content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/**/*.{js,ts,jsx,tsx,mdx}"
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
-````
-## my postcss config below too
-````js
-export default {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-};
-````
-Ainda tenho acesso KKKKKKKKKKKK
-felipe Aqui
